@@ -1,0 +1,17 @@
+data/
+__pycache__/
+*.pyc
+.DS_Store
+
+.env
+.env.*
+!.env.example
+
+# 僅本機驗收用的畫面與固定資料預覽，不納入原始碼發佈
+/*.jpg
+/*.png
+/public/result-preview.html
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
