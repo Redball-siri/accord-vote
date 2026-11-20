@@ -47,3 +47,7 @@
 GitHub：`Redball-siri/accord-vote`。儲存庫只保存程式、虛構帳號、設定範例、串接文件與測試。投票資料庫、實際名冊、密鑰、本機截圖及固定結算預覽不會納入 Git。
 
 GitHub Actions 會在推送與 Pull Request 時執行 API、主網站串接、前端行為與 JavaScript 語法檢查。此專案目前沒有自動部署流程。
+
+## 開源授權
+
+本專案採用 [MIT License](LICENSE)，任何人都可以使用、修改與自行部署，並依授權保留版權與授權聲明。GitHub 公開提供的是程式碼；線上服務仍需另行部署與設定主網站登入。
